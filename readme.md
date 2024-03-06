@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Mahesh lodu.</h1>
+<h1 align="center">👋 Hi, I’m Mahesh.</h1>
 
 - 🌱 I’m currently persuing **BS in Data Science degree**.
 
